@@ -1,0 +1,73 @@
+[
+  {
+    "skills": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "C++",
+      "HTML",
+      "CSS",
+      "React",
+      "Git",
+      "AI"
+    ],
+    "experience": 1,
+    "name": "Jane Doe"
+  },
+  {
+    "skills": [
+      "Python",
+      "HTML",
+      "CSS",
+      "SQL",
+      "Git",
+      "Machine Learning",
+      "AI",
+      "Data Science"
+    ],
+    "experience": 1,
+    "name": "John Smith"
+  },
+  {
+    "skills": [
+      "Python",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Git",
+      "AI",
+      "DevOps"
+    ],
+    "experience": 1,
+    "name": "Priya Sharma"
+  },
+  {
+    "skills": [
+      "Java",
+      "JavaScript",
+      "Go",
+      "HTML",
+      "CSS",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "AI"
+    ],
+    "experience": 1,
+    "name": "Arjun Mehta"
+  },
+  {
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "AI",
+      "Data Science",
+      "TensorFlow",
+      "PyTorch",
+      "REST"
+    ],
+    "experience": 1,
+    "name": "Neha Patel"
+  }
+]

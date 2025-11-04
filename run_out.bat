@@ -1,0 +1,3 @@
+@echo off
+echo Running AIResumeScreener from out directory...
+java -cp "out;lib/gson-2.10.1.jar;lib/pdfbox-app-3.0.5.jar;lib/poi-5.2.3.jar;lib/poi-ooxml-5.2.3.jar;lib/poi-ooxml-full-5.2.3.jar" com.resumescreener.Main
